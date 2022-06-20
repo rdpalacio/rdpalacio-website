@@ -1,0 +1,41 @@
+baseURL: https://rdpalacio.co
+languageCode: en-us
+title: Ruben Dario Palacio
+theme: hugo-theme-notrack
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+newContentEditor: nvim
+mainSections: essays
+paginate: 4
+params:
+  author: Ruben Dario Palacio
+  blogLatestHeading: Ruben's Essays
+  favicon: ruben-dario-palacio.png
+  mainSections: essays
+  nBlogLatest: 4
+  showBlogLatest: no
+  showTaxonomyLinks: no
+  siteHeading: Ruben Dario Palacio, Ph.D.
+  social:
+    email: rdpalacio@ecotonos.org
+    github: rdpalacio
+    twitter: rdpalacio
+    researchgate: Ruben_Dario_Palacio
+    googlescholar: 'user=jRGXJK4AAAAJ&hl=en'
+    linkedin: example
+taxonomies:
+  categories: categories
+  month: month
+  tags: tags
+  year: year
+permalinks:
+  rants: /rants/:year/:month/:slug
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
