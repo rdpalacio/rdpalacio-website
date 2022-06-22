@@ -3,6 +3,8 @@ date: "2022-06-19"
 title: Interview for El Pais
 ---
 
+{{< figure src="/img/thumbnails/Ruben-Dario-Palacio_El-Pais.jpg" width="100%" >}}
+
 *[English Translation]*
 
 **THE PROTECTOR OF THE SAN ANTONIO FOREST**

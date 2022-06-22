@@ -7,11 +7,13 @@ menu:
 title: Research
 ---
 
-My research and conservation work involves biological surveys and monitoring, habitat restoration, community ecology, spatial analysis (GIS), species distribution models, biogeography, and conservation biology.
+I do research to strengthen the conservation of biodiversity with scientific evidence, and to provide insights that match on-the-ground preservation efforts. 
 
-You can find a complete list of my scientific contributions in [ResearchGate](https://www.researchgate.net/profile/Ruben_Dario_Palacio) and [Google Scholar](https://scholar.google.com/citations?user=jRGXJK4AAAAJ&hl=en).
+My research topics include biological surveys and monitoring, habitat restoration, community ecology and species distribution models. I mostly study birds and use spatial analysis to determine conservation priorities. 
 
-Below is a gallery of some of the scientific papers and technical reports I have worked on. Click on each thumbnail for a larger image and a short description.  
+You can find a list of my published papers in [ResearchGate](https://www.researchgate.net/profile/Ruben_Dario_Palacio) and [Google Scholar](https://scholar.google.com/citations?user=jRGXJK4AAAAJ&hl=en). I have published many of these papers in top peer-reviewed journals.
+
+Below is a gallery of some of the publications and technical reports I have worked on. Click on each thumbnail for a larger image and a short description.  
 
 {{< gallery-category >}}
     {{< gallery-photo fn="Palacio et al 2020.png" caption="San Antonio 100 years later" >}}
